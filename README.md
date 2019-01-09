@@ -1,4 +1,3 @@
 # hello-world
 just another repository
-
-fklhaůoghnůadnfůaojd
+musim sem neco napsat
