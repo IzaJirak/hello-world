@@ -1,4 +1,3 @@
 # hello-world
 just another repository
-neco
-kubicek
+tady je iza
